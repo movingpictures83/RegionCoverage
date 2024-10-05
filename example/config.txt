@@ -1,0 +1,2 @@
+Prefix plugins/RegionCoverage/example/
+Plugin RegionCoverage inputfile parameters.txt outputfile regionCov.csv

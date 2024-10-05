@@ -1,0 +1,2 @@
+fullCov	regionmatrix.fullCov.rds
+fullRegions	fullRegions.rds
